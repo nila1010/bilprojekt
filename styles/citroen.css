@@ -1,0 +1,19 @@
+p {
+  color: rgb(41, 81, 83);
+  margin: 10%;
+}
+
+body {
+  background-color: rgb(177, 187, 158);
+}
+
+.grid_1-1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 5%;
+  margin: 5%;
+}
+h1 {
+  margin-left: 25%;
+}
