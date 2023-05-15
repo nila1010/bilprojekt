@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+h1 {
+  color: white;
+  font-size: 3rem;
+}
+.iframe_wrap {
+  display: flex;
+  width: 100%;
+  padding: 2%;
+}
